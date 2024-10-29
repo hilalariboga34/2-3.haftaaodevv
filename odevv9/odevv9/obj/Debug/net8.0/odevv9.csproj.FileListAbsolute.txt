@@ -1,0 +1,14 @@
+C:\Users\HİLAL ARIBOĞA\Source\Repos\odevv9\odevv9\bin\Debug\net8.0\odevv9.exe
+C:\Users\HİLAL ARIBOĞA\Source\Repos\odevv9\odevv9\bin\Debug\net8.0\odevv9.deps.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\odevv9\odevv9\bin\Debug\net8.0\odevv9.runtimeconfig.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\odevv9\odevv9\bin\Debug\net8.0\odevv9.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\odevv9\odevv9\bin\Debug\net8.0\odevv9.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\odevv9\odevv9\obj\Debug\net8.0\odevv9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HİLAL ARIBOĞA\Source\Repos\odevv9\odevv9\obj\Debug\net8.0\odevv9.AssemblyInfoInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\odevv9\odevv9\obj\Debug\net8.0\odevv9.AssemblyInfo.cs
+C:\Users\HİLAL ARIBOĞA\Source\Repos\odevv9\odevv9\obj\Debug\net8.0\odevv9.csproj.CoreCompileInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\odevv9\odevv9\obj\Debug\net8.0\odevv9.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\odevv9\odevv9\obj\Debug\net8.0\refint\odevv9.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\odevv9\odevv9\obj\Debug\net8.0\odevv9.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\odevv9\odevv9\obj\Debug\net8.0\odevv9.genruntimeconfig.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\odevv9\odevv9\obj\Debug\net8.0\ref\odevv9.dll
